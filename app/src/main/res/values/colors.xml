@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Warna utama -->
+    <color name="soft_blue">#D3E1EE</color>
+
+    <!-- Warna aksen -->
+    <color name="soft_yellow">#FFF8D6</color>
+
+    <!-- Warna teks -->
+    <color name="dark_text">#171717</color>
+
+    <color name="gray_text">#6B7280</color>
+
+    <!-- Putih -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Border -->
+    <color name="border">#D8DEE7</color>
+
+</resources>
